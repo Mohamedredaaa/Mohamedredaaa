@@ -11,39 +11,17 @@ I'm passionate about building scalable data solutions, mastering AI technologies
 
 ## 🔧 **Skills & Tools**
 
-## 🔧 **Skills & Tools**
-
 ### **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) Java  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) C  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) C#  
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) Shell Scripting  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### **Big Data Technologies**  
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black) Hadoop  
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) Spark  
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) Kafka  
-![Flume](https://img.shields.io/badge/Apache%20Flume-0099CC?style=for-the-badge) Flume  
-![Sqoop](https://img.shields.io/badge/Apache%20Sqoop-008000?style=for-the-badge) Sqoop  
-![NiFi](https://img.shields.io/badge/Apache%20NiFi-007396?style=for-the-badge) NiFi  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) SQL  
-![Hive](https://img.shields.io/badge/Apache%20Hive-FCC624?style=for-the-badge&logo=apachehive&logoColor=black) Hive  
-![HBase](https://img.shields.io/badge/HBase-DC382D?style=for-the-badge) HBase  
-![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white) Cassandra  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) MongoDB  
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black) ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Flume](https://img.shields.io/badge/Apache%20Flume-0099CC?style=for-the-badge) ![Sqoop](https://img.shields.io/badge/Apache%20Sqoop-008000?style=for-the-badge) ![NiFi](https://img.shields.io/badge/Apache%20NiFi-007396?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Hive](https://img.shields.io/badge/Apache%20Hive-FCC624?style=for-the-badge&logo=apachehive&logoColor=black) ![HBase](https://img.shields.io/badge/HBase-DC382D?style=for-the-badge) ![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Machine Learning & AI**  
-![MLlib](https://img.shields.io/badge/Spark%20MLlib-E25A1C?style=for-the-badge) MLlib  
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge) Deep Learning  
-![NLP](https://img.shields.io/badge/NLP-0052CC?style=for-the-badge) NLP  
+![MLlib](https://img.shields.io/badge/Spark%20MLlib-E25A1C?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-0052CC?style=for-the-badge)
 
 ### **Other Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) Git  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) Docker  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) Linux  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) Power BI  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) Jupyter Notebook  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
