@@ -88,12 +88,5 @@ A custom Unix-like shell implemented in C, supporting interactive and non-intera
 
 ---
 
-## 📫 Get in Touch
-- **LinkedIn**: [Mohamed Reda Amer](https://www.linkedin.com/in/Mohamedredaaa)
-- **GitHub**: [Mohamedredaaa](https://github.com/Mohamedredaaa)
-- **Email**: [Mohamed Amer](mohamedamer1423@gmail.com)
-
----
-
 ## ⚡ Fun Fact
 I'm a lifelong learner who believes in the power of community and open-source development. Let's collaborate to innovate and create impactful solutions! 🚀
