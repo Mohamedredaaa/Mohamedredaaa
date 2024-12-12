@@ -44,15 +44,20 @@ I'm passionate about building scalable data solutions, mastering AI technologies
 
 ## 📈 Featured Projects
 
-### 🔗 [Enjaz - Blockchain-Based Car Ownership Transfer System](https://github.com/Mohamedredaaa/Enjaz)
-A blockchain-powered platform enabling secure and transparent vehicle ownership transfers.  
-**Technologies**: Blockchain | Python | Smart Contracts | Flask  
-
----
-
 ### 🔗 [Real-Time Stock Market Analysis](https://github.com/Mohamedredaaa/StockMarketAnalysis)
 A real-time data pipeline integrating Kafka, Flume, Spark, and Cassandra for stock price analysis and sentiment tracking.  
 **Technologies**: Kafka | Spark Streaming | Cassandra | MongoDB | Kibana  
+
+---
+### 🔗 [Real-Time-E-commerce-Data-Pipeline-with-Spark-ETL](https://github.com/Mohamedredaaa/Real-Time-E-commerce-Data-Pipeline-with-Spark-ETL)
+This ETL project leverages Apache Spark for data processing, transformation, and storage to analyze sales, inventory, and customer feedback data for an e-commerce store called ShopEase. 
+**Technologies**: Kafka | Spark  | sql | matblotlib | sparkML  
+
+---
+
+### 🔗 [Enjaz - Blockchain-Based Car Ownership Transfer System](https://github.com/Mohamedredaaa/Enjaz)
+A blockchain-powered platform enabling secure and transparent vehicle ownership transfers.  
+**Technologies**: Blockchain | Python | Smart Contracts | Flask  
 
 ---
 
