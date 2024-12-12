@@ -3,7 +3,7 @@
 ## 🚀 About Me
 🎓 **Artificial Intelligence Graduate**  
 💻 **Big Data Enthusiast | Data Engineer | Developer**  
-📍 Based in **[Your Location]**  
+📍 Based in **Egypt**  
 
 I'm passionate about building scalable data solutions, mastering AI technologies, and contributing to innovative projects. With a solid foundation in software engineering and expertise in distributed systems, I bring ideas to life through code.
 
