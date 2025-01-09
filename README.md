@@ -5,7 +5,7 @@
 💻 **Big Data Enthusiast | Data Engineer | Developer**  
 📍 Based in **Egypt**  
 
-I'm passionate about building scalable data solutions, mastering AI technologies, and contributing to innovative projects. With a solid foundation in software engineering and expertise in distributed systems, I bring ideas to life through code.
+I’m a data-obsessed engineer with a knack for turning chaos into clarity. I build scalable data systems, tinker with AI magic, and thrive on solving puzzles with code. Whether it’s crafting sleek pipelines or diving into the depths of machine learning, I’m all about creating solutions that spark innovation and make data work smarter, not harder. Let’s build the future, one byte at a time. 🚀
 
 ---
 ## 🔧 **Skills & Tools**
