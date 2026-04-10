@@ -1,7 +1,7 @@
 # MOHAMED REDA AMER  
 **Data Engineer | Business Analyst | Technical Specialist**  
 📍 Mansoura, Egypt | 📧 mohamedamer1423@gmail.com | 📞 +20 1027 967 412  
-🔗 LinkedIn: Mohamed Amer | 💻 GitHub: Mohamedredaaa  
+🔗 [LinkedIn: Mohamed Amer](https://www.linkedin.com/in/mohamedredaamer) | 💻 [GitHub: Mohamedredaaa](https://github.com/Mohamedredaaa)  
 ___________________________________________________________  
 
 ### 🏆 KEY ACHIEVEMENTS  

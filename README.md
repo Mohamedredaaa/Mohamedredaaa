@@ -1,11 +1,23 @@
-# 👋 Hello, I'm Mohamed Reda Amer!
+# �� Hello, I'm Mohamed Reda Amer!
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mohamedredaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ## 🚀 About Me
 🎓 **Artificial Intelligence Graduate**  
 💻 **Big Data Enthusiast | Data Engineer | Developer**  
 📍 Based in **Egypt**  
 
-I’m a data-obsessed engineer with a knack for turning chaos into clarity. I build scalable data systems, tinker with AI magic, and thrive on solving puzzles with code. Whether it’s crafting sleek pipelines or diving into the depths of machine learning, I’m all about creating solutions that spark innovation and make data work smarter, not harder. Let’s build the future, one byte at a time. 🚀
+I'm a data-obsessed engineer with a knack for turning chaos into clarity. I build scalable data systems, tinker with AI magic, and thrive on solving puzzles with code. Whether it's crafting sleek pipelines or diving into the depths of machine learning, I'm all about creating solutions that spark innovation and make data work smarter, not harder. Let's build the future, one byte at a time. 🚀
+
+---
+
+## 🔭 Current Focus
+- Building production-grade **real-time data pipelines** with Kafka & Spark Streaming
+- Exploring **Kubernetes** for orchestrating Big Data workloads
+- Deepening expertise in **Reinforcement Learning** and **Transformer models**
+- Pursuing **AWS / GCP** cloud certifications
 
 ---
 ## 🔧 **Skills & Tools**
@@ -20,7 +32,7 @@ I’m a data-obsessed engineer with a knack for turning chaos into clarity. I bu
 ![MLlib](https://img.shields.io/badge/Spark%20MLlib-E25A1C?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-0052CC?style=for-the-badge)
 
 ### **Data Science Tools**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white) 
 
 ### **Other Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C87?style=for-the-badge&logo=kali&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -35,7 +47,7 @@ A real-time data pipeline integrating Kafka, Flume, Spark, and Cassandra for sto
 ---
 ### 🔗 [Real-Time-E-commerce-Data-Pipeline-with-Spark-ETL](https://github.com/Mohamedredaaa/Real-Time-E-commerce-Data-Pipeline-with-Spark-ETL)
 This ETL project leverages Apache Spark for data processing, transformation, and storage to analyze sales, inventory, and customer feedback data for an e-commerce store called ShopEase. 
-**Technologies**: Kafka | Spark  | sql | matblotlib | sparkML  
+**Technologies**: Kafka | Spark | SQL | Matplotlib | SparkML  
 
 ---
 
@@ -57,6 +69,18 @@ A custom Unix-like shell implemented in C, supporting interactive and non-intera
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedredaaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedredaaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mohamedredaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 📚 Learning Goals
 - Advanced Machine Learning (Reinforcement Learning, Transformers)
 - Kubernetes for Big Data
@@ -69,6 +93,22 @@ A custom Unix-like shell implemented in C, supporting interactive and non-intera
 - Graduated from **Faculty of Computer and Information Science** with a **very good** grade in AI.
 - Participated in **Samsung Big Data Camps** and collaborated on high-impact projects.
 - Mastered key technologies in Big Data and AI within **4 years of college**.
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamedredaamer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohamedamer1423@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Mohamedredaaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
